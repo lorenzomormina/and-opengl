@@ -1,0 +1,1 @@
+Emulate AND gate by toggling the inputs.

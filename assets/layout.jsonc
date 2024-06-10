@@ -1,0 +1,19 @@
+{
+    // x, y, w, path
+    "and-gate": [ 20, 20, 120, "assets/and-gate.png" ],
+
+    // x, y, path
+    "led1": [ 20, 30, "assets/led.png" ],
+    "led2": [ 20, 60, "assets/led.png" ],
+    "led3": [ 80, 45, "assets/led.png" ],
+
+    // x, y
+    "expr": [ 20, 400 ],
+
+    // spacing: x
+    "expr-sp": [10],
+
+    // w, h
+    "op": [50,50],
+    "operand": [100,50]    
+}
